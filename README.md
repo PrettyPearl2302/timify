@@ -1,34 +1,19 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+### Timify+ - Podcast Listening App
 
-## Getting Started
+## Overview
 
-First, run the development server:
+Timify+ is a web podcast listening app that provides a more interactive/immersive listening experience for podcast users. 
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+   Category: Entertainment
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+   Story: Timify+ revolves around empowering podcast enthusiasts to engage, discover, and personalize their podcast experiences. Upon signing up, users gain access to a vast library of podcasts, where they can explore various shows and episodes. The platform enables users to leave public comments on episodes, fostering active discussions and community engagement. Additionally, users can rate individual episodes, providing valuable feedback and helping others find the best content.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+A unique feature of the app allows users to take private notes on podcast episodes, enabling them to document personal insights, thoughts, and reflections for future reference. Moreover, users can bookmark their favorite episodes and organize them within folders based on podcast genres, making it convenient to revisit and manage cherished content.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Overall, the core story of the app is about transforming the passive listening experience into an interactive, personalized journey for users. By offering a range of features that enhance engagement, feedback, and content discovery, Timify+  fosters a thriving community of podcast enthusiasts who can actively participate, share their perspectives, and explore the best of the podcasting world.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+   Market: Podcast enthusiasts
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+   Habit: Depending on the behaviors and interests of certain customers, Timify+’s app usage frequency will change. Others may use the app less frequently, such as once a week or during specific periods when they have more free time or commute time, while some users may use it everyday or several times per week to find and listen to new episodes.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
