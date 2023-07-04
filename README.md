@@ -17,3 +17,35 @@ Overall, the core story of the app is about transforming the passive listening e
 
    **Habit**: Depending on the behaviors and interests of certain customers, Timify+’s app usage frequency will change. Others may use the app less frequently, such as once a week or during specific periods when they have more free time or commute time, while some users may use it everyday or several times per week to find and listen to new episodes.
 
+## User Stories
+
+**User Role:**
+- User
+
+**User Personas**
+
+**User Persona 1: Kelly, the Podcast Enthusiast**
+
+  Name: Kelly King
+  Age: 28
+  Location: San Jose, California
+
+  Technology Access/Sophistication: Kelly is tech-savvy and has access to a smartphone, tablet, and computer. She is comfortable using mobile apps and web platforms to consume content and interact with others.
+
+  Motivation: Kelly is an avid podcast listener who enjoys exploring various topics and engaging with the podcasting community. She is motivated to discover new episodes and share her thoughts on her listening experience. 
+
+  Pain points: Kelly finds it challenging to share her feedback on specific podcast episodes. She wishes to have a platform that allows her to leave  rate episodes and leave comments under them. 
+
+
+**User Persona 2: Mark, the Podcast Collector**
+
+  Name: Mark Lee
+  Age: 34
+  Location: Ithaca, New York
+
+  Technology Access/Sophistication: Mark has basic tech skills and uses a smartphone to access podcasts. He prefers user-friendly apps that simplify content organization and bookmarking.
+
+  Motivation: Mark is a podcast collector who enjoys discovering and bookmarking his favorite episodes across various genres. He wants to have easy access to his bookmarked episodes and categorize them based on the podcast genre for a more organized listening experience.
+
+  Pain points: Mark struggles to keep track of his favorite episodes, and the lack of a group bookmarking feature often leads to frustration. He desires a podcast platform that allows him to bookmark episodes and group them by genre, making it effortless to find and revisit his preferred content.
+  
