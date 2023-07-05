@@ -48,4 +48,13 @@ Overall, the core story of the app is about transforming the passive listening e
   Motivation: Mark is a podcast collector who enjoys discovering and bookmarking his favorite episodes across various genres. He wants to have easy access to his bookmarked episodes and categorize them based on the podcast genre for a more organized listening experience.
 
   Pain points: Mark struggles to keep track of his favorite episodes, and the lack of a group bookmarking feature often leads to frustration. He desires a podcast platform that allows him to bookmark episodes and group them by genre, making it effortless to find and revisit his preferred content.
-  
+
+
+## Wireframe
+
+<p align="center">
+    <a href="https://www.figma.com/file/ZxP14pevo0lcicYPZ9Cvxl/capstone?type=design&node-id=6%3A31&mode=design&t=ebD6JgEkbZ2Wix5A-1">Wireframe URL</a>
+</p>
+<p align="center">
+    <img src="/public/wireframe.png" alt="wireframe" width="600" />
+</p>
